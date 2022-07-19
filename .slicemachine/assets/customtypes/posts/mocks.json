@@ -1,0 +1,51 @@
+{
+  "id": "49ff5ba5-14d8-4443-a7fe-0fdf02b1c28a",
+  "uid": "ratione-aut-vel",
+  "type": "posts",
+  "data": {
+    "title": "syndicate web-enabled ROI",
+    "subtitle": "productize bleeding-edge e-commerce",
+    "author": "iterate real-time supply-chains",
+    "banner": {
+      "dimensions": {
+        "width": 900,
+        "height": 500
+      },
+      "alt": "Placeholder image",
+      "copyright": null,
+      "url": "https://images.unsplash.com/photo-1547394765-185e1e68f34e?w=900&h=500&fit=crop"
+    },
+    "content": [
+      {
+        "heading": "brand intuitive eyeballs",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Aute amet duis sint eu. Excepteur exercitation do dolor voluptate. Duis eu quis non velit nostrud commodo aliquip.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "reintermediate cross-platform blockchains",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Sit anim sit dolore exercitation incididunt non elit eu velit adipisicing. Ex sint nulla ipsum commodo ex pariatur. Aliquip officia anim laborum laboris deserunt sunt cupidatat.",
+            "spans": []
+          }
+        ]
+      },
+      {
+        "heading": "deploy collaborative web services",
+        "body": [
+          {
+            "type": "paragraph",
+            "text": "Elit anim culpa ipsum tempor ipsum proident pariatur nulla ex magna adipisicing labore laboris ex irure.",
+            "spans": []
+          }
+        ]
+      }
+    ]
+  }
+}
